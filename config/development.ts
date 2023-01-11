@@ -4,7 +4,7 @@ const path = require('path');
 export const config: IConfig = {
   DBSERVICE: {
     mongoConnectionString:
-      'mongodb+srv://devdb:devdbauth@cluster0.jvvsy.mongodb.net/PasswordChecker?retryWrites=true&w=majority'
+      'MongodbUrlhere'
   },
   APP_LEVEL_CONFIG: {
     port: 8200,
