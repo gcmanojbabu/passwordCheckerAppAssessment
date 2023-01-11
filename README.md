@@ -1,2 +1,1 @@
-passwordCheckerApp
-README.md
+# password checker
